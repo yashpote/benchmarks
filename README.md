@@ -1,5 +1,5 @@
 # benchmarks
-SAT solver benchmarks for CS 4269/5469 .
+SAT solver benchmarks for CS 4244 .
 
 1) Random has random CNFs which are all SAT.
 2) UNSAT has easy UNSAT CNFs. 
